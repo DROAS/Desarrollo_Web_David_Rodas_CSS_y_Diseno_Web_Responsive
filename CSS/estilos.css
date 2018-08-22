@@ -68,7 +68,7 @@ a{
 	max-width: 425px;
 	width: 100%;
 }
-#image2 :hover{
+#image2:hover{
 	transform: rotate(10deg);
 	border 2px;
 	box-shadow: 4px 4px 4px #82c3a6;
@@ -81,7 +81,7 @@ a{
 	max-width: 425px;
 	width: 100%;
 }
-#image3 :hover{
+#image3:hover{
 	transform:translate(20px, -5px);
 	border 2px;
 	box-shadow: 4px 4px 4px #82c3a6;
